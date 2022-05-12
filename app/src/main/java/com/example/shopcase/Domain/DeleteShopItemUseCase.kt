@@ -1,7 +1,7 @@
 package com.example.shopcase.Domain
 
 class DeleteShopItemUseCase {
-    fun DeleteShopItem(shopItem: ShopItem){
+    fun deleteShopItem(shopItem: ShopItem){
         TODO()
     }
 }
